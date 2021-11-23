@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="25" viewBox="0 0 40 25">
+  <g id="marker" transform="translate(-169 -346)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="40" height="17" rx="8.5" transform="translate(169 346)"/>
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H3A0,0,0,0,1,3,0V6.5A1.5,1.5,0,0,1,1.5,8h0A1.5,1.5,0,0,1,0,6.5V0A0,0,0,0,1,0,0Z" transform="translate(188 363)"/>
+    <path id="Path_3" data-name="Path 3" d="M8.168,7.168,6.027,9.309,3.887,7.168a3.027,3.027,0,1,1,4.281,0ZM6.027,5.7a.673.673,0,1,0-.673-.673A.673.673,0,0,0,6.027,5.7Z" transform="translate(170.98 348.645)" fill="#fff"/>
+    <text id="Dropoff" transform="translate(184 356)" fill="#fff" font-size="5" font-family="Gordita-Medium, Gordita" font-weight="500"><tspan x="0" y="0">Dropoff</tspan></text>
+  </g>
+</svg>
