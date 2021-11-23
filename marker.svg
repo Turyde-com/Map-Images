@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="59" height="38" viewBox="0 0 59 38">
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="33" viewBox="0 0 59 33">
   <g id="marker" transform="translate(-169 -346)">
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="59" height="28" rx="14" transform="translate(169 346)"/>
-    <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H5A0,0,0,0,1,5,0V7.5A2.5,2.5,0,0,1,2.5,10h0A2.5,2.5,0,0,1,0,7.5V0A0,0,0,0,1,0,0Z" transform="translate(196 374)"/>
-    <path id="Path_3" data-name="Path 3" d="M10.324,9.324,7.291,12.358,4.257,9.324a4.291,4.291,0,1,1,6.068,0ZM7.291,7.244a.953.953,0,1,0-.953-.953A.953.953,0,0,0,7.291,7.244Z" transform="translate(170.98 351.642)" fill="#fff"/>
-    <text id="Dropoff" transform="translate(190 362)" fill="#fff" font-size="8" font-family="Gordita-Medium, Gordita" font-weight="500"><tspan x="0" y="0">Dropoff</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="59" height="23" rx="11.5" transform="translate(169 346)" fill="#fff"/>
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H4A0,0,0,0,1,4,0V8a2,2,0,0,1-2,2H2A2,2,0,0,1,0,8V0A0,0,0,0,1,0,0Z" transform="translate(197 369)" fill="#fff"/>
+    <path id="Path_3" data-name="Path 3" d="M10.324,9.324,7.291,12.358,4.257,9.324a4.291,4.291,0,1,1,6.068,0ZM7.291,7.244a.953.953,0,1,0-.953-.953A.953.953,0,0,0,7.291,7.244Z" transform="translate(170.98 351.642)"/>
+    <text id="Dropoff" transform="translate(190 361)" font-size="8" font-family="Gordita-Bold, Gordita" font-weight="700"><tspan x="0" y="0">Dropoff</tspan></text>
   </g>
 </svg>
