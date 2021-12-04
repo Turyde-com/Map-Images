@@ -3,6 +3,6 @@
     <rect id="Rectangle_1" data-name="Rectangle 1" width="80" height="34" rx="17" transform="translate(164 338)" fill="#fff"/>
     <path id="Rectangle_2" data-name="Rectangle 2" d="M0,0H5A0,0,0,0,1,5,0V6.5A2.5,2.5,0,0,1,2.5,9h0A2.5,2.5,0,0,1,0,6.5V0A0,0,0,0,1,0,0Z" transform="translate(202 372)" fill="#fff"/>
     <path id="Path_3" data-name="Path 3" d="M9.7,8.7,6.925,11.476,4.15,8.7A3.925,3.925,0,1,1,9.7,8.7ZM6.925,6.8a.872.872,0,1,0-.872-.872A.872.872,0,0,0,6.925,6.8Z" transform="translate(169.98 348.524)"/>
-    <text id="Dropoff" transform="translate(190 359)" font-size="10" font-family="Gordita-Bold, Gordita" font-weight="700"><tspan x="0" y="0">Dropoff</tspan></text>
+    <text id="Dropoff" transform="translate(190 359)" font-size="10" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Dropoff</tspan></text>
   </g>
 </svg>
