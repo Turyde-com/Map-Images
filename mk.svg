@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="41" viewBox="0 0 59 41">
+  <g id="marker1" transform="translate(-175 -344)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="59" height="24" rx="12" transform="translate(175 344)" fill="#fff"/>
+    <text id="Dropoff" transform="translate(186 359)" font-size="10" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="0">Dropoff</tspan></text>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(198 373)" fill="none" stroke="#000" stroke-width="4">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="4" fill="none"/>
+    </g>
+  </g>
+</svg>
